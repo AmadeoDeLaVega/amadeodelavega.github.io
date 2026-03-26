@@ -12,7 +12,7 @@ Hi there! I’m Amadeo, a PhD student in Computer Science at the University of M
 1. How can we design AI systems that are safe, reliable, and robust? (trustworthy AI and its foundations)
 2. How can we automate mathematics and programming using AI? (by combining the power of generative AI with the rigor of formal verification and testing)
 
-I also have some experience in quantum computing. Outside of research, I enjoy singing, dancing, working out, hiking, reading, and meeting new people. So feel free to send me an email if you’d like to collaborate or just have a conversation!
+I also have some experience in [quantum computing](/files/m-thesis.pdf). Outside of research, I enjoy singing, dancing, working out, hiking, reading, and meeting new people. So feel free to send me an email if you’d like to collaborate or just have a conversation!
 
    ![intersection](/images/int.png)
 
