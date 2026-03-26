@@ -12,14 +12,11 @@ Hi there! I’m Amadeo, a PhD student in Computer Science at the University of M
 1. How can we design AI systems that are safe, reliable, and robust? (trustworthy AI and its foundations)
 2. How can we automate mathematics and programming using AI? (by combining the power of generative AI with the rigor of formal verification and testing)
 
+I also have some experience in quantum computing. Outside of research, I enjoy singing, dancing, working out, hiking, reading, and meeting new people. So feel free to send me an email if you’d like to collaborate or just have a conversation!
+
    ![intersection](/images/int.png)
 
-I also have a background in quantum computing. Outside of research, I enjoy singing, dancing, working out, hiking, reading, and meeting new people. So feel free to send me an email if you’d like to collaborate or just have a conversation!
-
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Current projects
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
