@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi there! I'm Amadeo, a CS PhD student at the the University of Maryland, College Park. I'm interested in the interserction between Artificial Intelligence, Mathematics, and Programming. Concretely, guided by real-world problems, my research aims to answer the following questions:
+1. How can we develop safe, reliable, and robust AI systems? (trustworthy AI & its foundations).
+2. How can we automatize Mathematics and Programming with AI? (by combining the power of generative AI with the rigor of formal verification and testing).
+ 
+I also have some background in Quantum Computing. Outside of my PhD, I enjoy singing, dancing, working out, hiking, reading, and meeting new people. So feel free to send me an email if you want to collaborate or just want to chat!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
