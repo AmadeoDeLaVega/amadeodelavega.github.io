@@ -16,9 +16,9 @@ I also have some experience in [quantum computing](/files/m-thesis.pdf). Outside
 
    ![intersection](/images/int.png)
 
-Current projects
+Current projects:
 ======
-**A multi-layer verification harness for LLM-generated code patches**
+**Towards automatizing programming**
 
 As coding agents become better at generating patches for real software repositories, the main bottleneck is no longer just generation, but trust. A patch can compile, pass the existing unit tests, and still misunderstand the bug report or quietly violate the user's intent. This matters because software teams are starting to rely on AI systems for debugging and repair, and weak verification can create a false sense of correctness in high-stakes settings.
 
