@@ -12,6 +12,8 @@ Hi there! I’m Amadeo, a PhD student in Computer Science at the University of M
 1. How can we design AI systems that are safe, reliable, and robust? (trustworthy AI and its foundations)
 2. How can we automate mathematics and programming using AI? (by combining the power of generative AI with the rigor of formal verification and testing)
 
+   ![intersection](/images/int.png)
+
 I also have a background in quantum computing. Outside of research, I enjoy singing, dancing, working out, hiking, reading, and meeting new people. So feel free to send me an email if you’d like to collaborate or just have a conversation!
 
 
@@ -55,7 +57,7 @@ How to edit your site's GitHub repository
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+
 
 For more info
 ------
