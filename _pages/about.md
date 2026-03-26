@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Amadeo, a CS PhD student at the the University of Maryland, College Park. I'm interested in the interserction between Artificial Intelligence, Mathematics, and Programming. Concretely, guided by real-world problems, my research aims to answer the following questions:
-1. How can we develop safe, reliable, and robust AI systems? (trustworthy AI & its foundations).
-2. How can we automatize Mathematics and Programming with AI? (by combining the power of generative AI with the rigor of formal verification and testing).
- 
-I also have some background in Quantum Computing. Outside of my PhD, I enjoy singing, dancing, working out, hiking, reading, and meeting new people. So feel free to send me an email if you want to collaborate or just want to chat!
+Hi there! I’m Amadeo, a PhD student in Computer Science at the University of Maryland, College Park. My research lies at the intersection of Artificial Intelligence, Mathematics, and Programming. Guided by real-world challenges, I focus on two central questions:
+
+1. How can we design AI systems that are safe, reliable, and robust? (trustworthy AI and its foundations)
+2. How can we automate mathematics and programming using AI? (by combining the power of generative AI with the rigor of formal verification and testing)
+
+I also have a background in quantum computing. Outside of research, I enjoy singing, dancing, working out, hiking, reading, and meeting new people. So feel free to send me an email if you’d like to collaborate or just have a conversation!
+
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
