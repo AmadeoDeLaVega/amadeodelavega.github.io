@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-12-08-inapproximability-of-maximum-hamiltonian-path-s
 excerpt: 'A paper on why a natural graph-path optimization problem stays hard even if you only ask for a good approximation.'
-date: 2022-12-08
 paperurl: '/files/Inapproximability%20of%20Maximum%20Hamiltonian%20Path-S.pdf'
 citation: 'Amadeo De La Vega and Eashwar Sathyamurthy. (2022). &quot;Inapproximability of Maximum Hamiltonian Path-S.&quot; Manuscript.'
 ---

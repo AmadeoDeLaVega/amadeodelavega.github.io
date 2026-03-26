@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-12-11-multi-party-computation-based-location-services
 excerpt: 'A manuscript on how private location-style queries can be answered without exposing either the user query or the server database.'
-date: 2024-12-11
 paperurl: '/files/Multi-party%20Computation%20based%20Location%20Services.pdf'
 citation: 'Kanav Gupta, Amadeo De La Vega, and Harikesh Kailad. (2024). &quot;Multi-party Computation based Location Services.&quot; Manuscript.'
 ---

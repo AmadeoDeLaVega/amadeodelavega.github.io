@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-05-11-deep-learning-approach-to-malicious-network-traffic-classification
 excerpt: 'A manuscript on using deep learning to distinguish benign traffic from malicious packets using packet-level data.'
-date: 2023-05-11
 paperurl: '/files/Deep%20Learning%20Approach%20to%20Malicious%20Network%20Traffic.pdf'
 citation: 'Kaan Aydogan, Jacob Clements, Cameron Andrews, and Amadeo De La Vega. (2023). &quot;Deep Learning Approach to Malicious Network Traffic Classification.&quot; Manuscript.'
 ---

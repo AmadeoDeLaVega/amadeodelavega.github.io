@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-12-01-a-new-verifier-for-coding-agents
 excerpt: 'A manuscript on building a verifier harness that checks whether AI-generated code is actually correct rather than just plausible-looking.'
-date: 2025-12-01
 paperurl: '/files/A%20new%20verifier%20for%20coding%20agents.pdf'
 citation: 'Ignacio Hernandez Bas, Amadeo De La Vega, and Shayan Shabihi. (2025). &quot;A new verifier for coding agents.&quot; Manuscript.'
 ---
